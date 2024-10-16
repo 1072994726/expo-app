@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "efd0b4d5-21e5-4f5c-a3b7-c19bb62e39de"
+      }
+    },
+    "owner": "xuangang"
   }
 }
